@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExitButton
+comment1.params=observers
+comment1.target=ExitButton(Observer[])
+comment2.params=
+comment2.target=void\ onClickedButton()
+numComments=3

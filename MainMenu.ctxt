@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=
+comment2.target=void\ eventOcurred()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=songName
+comment4.target=void\ selectSong(java.lang.String)
+comment5.params=
+comment5.target=void\ playSong()
+numComments=6

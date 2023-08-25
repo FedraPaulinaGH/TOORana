@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=
+comment1.target=Button()
+comment2.params=observers
+comment2.target=Button(Observer[])
+comment3.params=
+comment3.target=void\ act()
+comment4.params=observer
+comment4.target=void\ addObserver(Observer)
+comment5.params=
+comment5.target=void\ checkMouseOver()
+comment6.params=
+comment6.target=void\ checkClick()
+comment7.params=
+comment7.target=void\ onClickedButton()
+comment8.params=adjust
+comment8.target=void\ adjustTransparency(int)
+numComments=9
